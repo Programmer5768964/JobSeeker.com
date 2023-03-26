@@ -1,0 +1,79 @@
+.job-one {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 1px solid brown;
+  border-radius: 8px;
+  margin: 250px;
+  margin-top: 48px;
+  background-color: #e8f3eaba;
+}
+.job-main-container {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+}
+.job-title {
+  display: flex;
+  justify-content: space-around;
+
+  padding: 20px;
+}
+.job-title h2 {
+  background-color: #e6dcdc;
+  border-radius: 8px;
+}
+.button-heart {
+  display: flex;
+}
+.job-apply-button {
+  height: 50px;
+  width: 125px;
+  margin-top: 22px;
+  margin-left: 20px;
+  font-size: 21px;
+  background-color: #1d2fba8c;
+  border: none;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.heart-icon {
+  margin-left: 11px;
+  margin-top: 22px;
+  font-size: 43px;
+  background-color: #e1e1e9;
+  border-radius: 6px;
+  height: 47px;
+  width: 44px;
+  color: #49d178b8;
+}
+.job-desc {
+  padding: 20px;
+}
+.job-skill {
+  padding: 20px;
+}
+.job-expe {
+  padding: 20px;
+}
+.job-time {
+  padding: 20px;
+}
+.job-location {
+  padding: 20px;
+}
+.job-salary {
+  padding: 20px;
+}
+.job-apply-section {
+  height: 119vh;
+  width: 155%;
+  margin-left: -187px;
+  border: 1px solid brown;
+  margin-top: 46px;
+  margin-right: 10px;
+  border-radius: 8px;
+  padding: 21px;
+}
