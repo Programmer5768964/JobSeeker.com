@@ -1,4 +1,21 @@
 {
+<<<<<<< HEAD
+  "name": "jobseeker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sujeet",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.10.4",
+    "nodemon": "^2.0.20"
+=======
   "name": "jsfrontend",
   "version": "0.1.0",
   "private": true,
@@ -38,5 +55,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+>>>>>>> 478126d3db1de9fd3b92ce9bf65a94f9d6f872bf
   }
 }
